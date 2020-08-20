@@ -1,0 +1,6 @@
+keras-gpu
+scikit-learn
+plotly
+matplotlib
+statsmodels
+seaborn
